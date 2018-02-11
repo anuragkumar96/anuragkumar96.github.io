@@ -1,0 +1,69 @@
+ body
+{
+	background-color: rgb(14, 145, 73) ;
+	border-style: outset;
+	background-image: url("1.jpg");
+}
+img {
+	border-radius: 50%;
+}
+
+#one{
+text-align: center;
+}
+
+#cent{
+	font-size:36px;
+	text-align: center;
+	}
+.main-header{
+border-style: outset;
+	background-color: rgba(231, 50, 18, 0.644) ;
+	text-align: center;
+    border: 1px solid green;
+	padding: .35em .625em .75em
+}
+.navmy {
+		overflow: hidden;
+		background-color: rgba(233, 179, 31, 0.699);
+	  }
+	  
+	  .navmy a {
+		float: left;
+		color: #f2f2f2;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+		font-size: 17px;
+	  }
+	  
+	  .navmy a:hover {
+		background-color: rgb(94, 76, 175);
+		color: black;
+	  }
+	  
+	  .navmy a.active {
+		background-color: rgb(94, 76, 175);
+		color: white;
+	  }
+	  .fa-facebook {
+		background: #3B5998;
+		color: white;
+	  }
+	 
+	  .fa-linkedin {
+		background: #007bb5;
+		color: white;
+	  }
+	  .fa-bitbucket {
+		background:#3B5998 ;
+		color: white;
+	  }
+	  .fa-github {
+		background: black;
+		color: white;
+	  }
+	  
+		
+		
+	
