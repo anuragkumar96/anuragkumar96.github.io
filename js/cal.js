@@ -7,3 +7,11 @@ function calculate(p,q,r)
     result.innerHTML = "The interest is " + (p*n*r/100);
 }
 
+
+      
+$(document).ready(function(){
+    $("#button").click(function(){
+  $("#result").empty();
+ 
+    });
+});
